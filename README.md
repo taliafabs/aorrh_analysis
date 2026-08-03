@@ -1,5 +1,7 @@
 # LPC Election Swing Analysis
 Poll results were downloaded in CSV format from the following Elections Canada links:
 * 2025: https://www.elections.ca/content.aspx?section=res&dir=rep/off/45gedata&document=byed&lang=e
+* 2021:
+* 2019:
 
 Census data
